@@ -1,0 +1,19 @@
+body {
+    background-color:  soligba(58, 121, 117, 0.656);
+    front-family:Arial, sans-serif;
+     }
+
+h1 {
+    color: red;
+    border: 1px solid red
+    padding: 20px
+    }
+
+#ocupacion {
+    color: rgba(165, 33, 231, 0.664);
+    }
+
+.intro {
+    color: rgb(19, 178, 236);
+    }
+
